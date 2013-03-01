@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'ruby' , "2.0.0"
+ruby "1.9.3"
 gem 'rails',     github: 'rails/rails'
 gem 'arel',      github: 'rails/arel'
 gem 'activerecord-deprecated_finders', github: 'rails/activerecord-deprecated_finders'
